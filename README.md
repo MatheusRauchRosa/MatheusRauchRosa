@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MatheusRauchRosa
+- 👀 Estou anunciando diversas vagas.
+- 🌱 I’m currently learning python.
+- 💞️ 
+- 📫 matheus.rosa@parceirohunterco.com.br
